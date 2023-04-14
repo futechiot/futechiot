@@ -7,11 +7,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=futechiot&theme=onedark" alt="futechiot" /></a> </p> -->
 
-- 🔭 I’m currently working on [Embedded Audio project]
+- 🔭 I’m currently working in **Embedded Domain as a Firmware Engineer**
 - 🌱 I’m currently learning **finance and Internet of Things**
 - 👯 I’m looking to collaborate **on interesting projects**
 - 👨‍💻 All of my projects are available at [In progress]()
 - 💬 Ask me about **Embedded and IoT stuff**
 - 📫 How to reach me **futechiot@gmail.com**
-- 📄 Know about my experiences [](https://)
+- 📄 Know about my experiences [will upload soon]()
 - ⚡ Fun fact **I hunt for learning and reading about what tech giants are about to launch**
